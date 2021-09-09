@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
 
-- 🌱 I’m currently learning **C++, C#, Unity**
+- 🌱 I’m currently learning **C++, C#, JS, Unity**
  
 - 💬 Ask me about **Unity**
  
