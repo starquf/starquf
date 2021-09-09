@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm SungWhan Baek </h1>
+<h2 align="center"> Have a good day! </h2>
 
 - 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
 
